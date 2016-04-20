@@ -2,9 +2,11 @@
 
 Not really a coder, but this is my attempt at making the arc-theme at bit more unity-friendly.
 
-This theme is build with GTK3.18 in mind, so it's for Ubuntu unity 16.04 ONLY.
+This theme is build with GTK3.18 in mind, so it's for Ubuntu unity 16.04 ONLY. - If you dont like OSX icons,  you  can use the orignals with the "non-OSX" branch.
 
 Theme is a fork of https://github.com/horst3180/arc-theme/ - Thanks to horst3180 for his wonderful theme.
+
+If you have more suggestions feel free to ask or make pull-requests.
 
 # Changes made
 
@@ -16,12 +18,6 @@ Theme is a fork of https://github.com/horst3180/arc-theme/ - Thanks to horst3180
 - Fixet sound-buttons in unity-panel
 - Made scrollbar for terminal dark
 - Other unity-stuff.
-
-If you dont like OSX icons,  you  can use the orignals with the "non-OSX" branch.
-
-If you have more suggestions feel free to ask or make pull-requests.
-
-I probably spent 10 hours on CSS-hacking since I have no coding-knowledge, so please share a link to here if you post it somewhere :)
 
 # Screenshot
 
