@@ -18,3 +18,12 @@ I probably spent 10 hours on CSS-hacking since I have no coding-knowledge, so pl
 
 ![Screenshot](http://i.imgur.com/Bhz3o8z.jpg)
 *Blue menus instead of white, OSX icons and dark scrollbar for Gnome Terminal.*
+
+# How to install
+
+```
+Download theme here, master or Non-OSX branch.
+Extract to /somewhere
+sudo cp -R arc-darker-ubuntu /usr/share/themes
+Change theme in unity-tweak-tool
+```
