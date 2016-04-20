@@ -4,14 +4,17 @@ Not really a coder, but this is my attempt at making the arc-theme at bit more u
 
 This theme is build with GTK3.18 in mind, so it's for Ubuntu unity 16.04 ONLY.
 
-Theme is a fork of https://github.com/horst3180/arc-theme/
+Theme is a fork of https://github.com/horst3180/arc-theme/ - Thanks to horst3180 for his wonderful theme.
 
 The only changes I made is to disable transparency, add OSX icons, delete all non-unity stuff, using the arc-darker theme, I made it so menus are blue/white insted of white/black, which made some problems for the unity topbar - icons would not show in the correct color. Fixet GTKcalendar a bit, made scrollbar for terminal dark and other unity-stuff.
 
 If you dont like OSX icons,  you  can use the orignals with the "non-OSX" branch.
 
-I might keep improving it the next few weeks, but then it should be pretty stable.
-
 If you have more suggestions feel free to ask or make pull-requests.
 
-Thanks to horst3180 for his wonderful theme.
+I probably spent 10 hours on CSS-hacking since I have no coding-knowledge, so please share a link to here if you post it somewhere :)
+
+# Screenshot
+
+![Screenshot](http://i.imgur.com/Bhz3o8z.jpg)
+*Blue menus instead of white, OSX icons and dark scrollbar for Gnome Terminal.*
