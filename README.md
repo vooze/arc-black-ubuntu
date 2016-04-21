@@ -27,8 +27,8 @@ If you have more suggestions feel free to ask or make pull-requests.
 # How to install
 
 ```
-Download theme here, master or Non-OSX branch.
-Extract to /somewhere
+(sudo apt install git)
+git clone https://github.com/vooze/arc-darker-ubuntu
 sudo cp -R arc-darker-ubuntu /usr/share/themes
-Change theme in unity-tweak-tool
+- Change theme in unity-tweak-tool
 ```
