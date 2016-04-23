@@ -22,7 +22,7 @@ If you have more suggestions feel free to ask or make pull-requests.
 
 # Screenshot
 
-![Screenshot](http://i.imgur.com/Bhz3o8z.jpg)
+![Screenshot](http://i.imgur.com/BJbLRGF.png)
 *Blue menus instead of white, OSX icons and dark scrollbar for Gnome Terminal.*
 
 # How to install
