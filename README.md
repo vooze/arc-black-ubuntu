@@ -18,6 +18,7 @@ If you have more suggestions feel free to ask or make pull-requests.
 - Fixed GTK calendar a bit
 - Fixed sound-buttons in unity-panel
 - Made scrollbar for terminal dark
+- Added unity-greeter theme.
 - Other unity-stuff.
 
 # Screenshots
