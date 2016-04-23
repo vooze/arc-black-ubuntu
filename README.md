@@ -10,12 +10,13 @@ If you have more suggestions feel free to ask or make pull-requests.
 
 # Changes made
 
-- Disable transparency
-- Add OSX icons
-- Delete all non-unity stuff
-- Made menus blue/white insted of white/black, which made some problems for the unity topbar - icons would not show in the correct color.
-- Fixet GTKcalendar a bit
-- Fixet sound-buttons in unity-panel
+- Disabled transparency
+- Made the unity top bar the same color as other windows.
+- Added OSX icons (there is a version without them as well)
+- Deleted all non-unity stuff
+- Made menus blue/white instead of white/black, which made some problems for the unity top bar - icons would not show in the correct color. - White icons on white background is ugly :)
+- Fixed GTK calendar a bit
+- Fixed sound-buttons in unity-panel
 - Made scrollbar for terminal dark
 - Other unity-stuff.
 
