@@ -18,18 +18,34 @@ If you have more suggestions feel free to ask or make pull-requests.
 - Fixed GTK calendar a bit
 - Fixed sound-buttons in unity-panel
 - Made scrollbar for terminal dark
+- Added unity-greeter theme.
 - Other unity-stuff.
 
-# Screenshot
+# Screenshots
 
 ![Screenshot](http://i.imgur.com/BJbLRGF.png)
 *Blue menus instead of white, OSX icons and dark scrollbar for Gnome Terminal.*
 
-# How to install
+![Screenshot](http://i.imgur.com/SfrUx19.png)
+*Unity-greeter theme for lightdm*
+
+# How to install theme
 
 ```
-(sudo apt install git)
+sudo apt install git unity-tweak-tool
 git clone https://github.com/vooze/arc-darker-ubuntu
+cd arc-darker-ubuntu
 sudo cp -R arc-darker-ubuntu /usr/share/themes
 - Change theme in unity-tweak-tool
 ```
+
+# How to change unity-greeter theme:
+
+```
+sudo cp -R /THEME-FOLDER-CHANGE-THIS/extra/unity-greeter/10_unity-greeter.gschema.override /usr/share/glib-2.0/schemas/
+sudo glib-compile-schemas /usr/share/glib-2.0/schemas/
+```
+
+# Credits:
+- https://github.com/horst3180/ - For the arc-theme
+- https://github.com/HEXcube - For the unity-greeter theme.
