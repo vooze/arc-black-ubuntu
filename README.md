@@ -32,7 +32,7 @@ If you have more suggestions feel free to ask or make pull-requests.
 # How to install theme
 
 ```
-sudo apt install git unity-tweak-tool
+sudo apt install git unity-tweak-tool gnome-themes-standard gtk2-engines-murrine
 git clone https://github.com/vooze/arc-darker-ubuntu
 cd arc-darker-ubuntu
 sudo cp -R arc-darker-ubuntu /usr/share/themes
