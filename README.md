@@ -37,7 +37,7 @@ You will need to install gnome-themes-standard & gtk2-engines-murrine to make su
 sudo apt install git unity-tweak-tool gnome-themes-standard gtk2-engines-murrine
 git clone https://github.com/vooze/arc-darker-ubuntu
 cd arc-darker-ubuntu
-sudo cp -R arc-darker-ubuntu /usr/share/themes
+sudo cp -R arc-darker-ubuntu* /usr/share/themes
 - Change theme in unity-tweak-tool
 ```
 
