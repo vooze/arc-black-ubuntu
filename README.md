@@ -8,6 +8,8 @@ Theme is a fork of https://github.com/horst3180/arc-theme/ - Thanks to horst3180
 
 If you have more suggestions feel free to ask or make pull-requests.
 
+You will need to install gnome-themes-standard & gtk2-engines-murrine to make sure everything works.
+
 # Changes made
 
 - Disabled transparency
