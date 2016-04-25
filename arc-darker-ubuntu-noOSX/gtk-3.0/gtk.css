@@ -67,7 +67,7 @@
   color: #000000; }
 
 .label:insensitive {
-  color: rgba(92, 97, 108, 0.55); }
+  color: rgba(255, 255, 255, 0.45); }
 
 .dim-label, .label.separator, .popover .label.separator, .sidebar .label.view.separator, .header-bar .subtitle {
   opacity: 0.55; }
