@@ -34,7 +34,9 @@ You will need to install gnome-themes-standard & gtk2-engines-murrine to make su
 ![Screenshot](http://i.imgur.com/SfrUx19.png)
 *Unity-greeter theme for lightdm*
 
+# Icon theme
 
+This is very EARLY development, so please be gentle. It's right here: https://github.com/vooze/numix-blue-custom
 
 # How to install theme
 
