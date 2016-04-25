@@ -12,9 +12,9 @@ You will need to install gnome-themes-standard & gtk2-engines-murrine to make su
 
 # Changes made
 
+- Made 4 versions, two black/dark and two blue/standard. Both come with or without OSX icons.
 - Disabled transparency
 - Made the unity top bar the same color as other windows.
-- Added OSX icons (there is a version without them as well)
 - Deleted all non-unity stuff
 - Made menus blue/white instead of white/black, which made some problems for the unity top bar - icons would not show in the correct color. - White icons on white background is ugly :)
 - Fixed GTK calendar a bit
@@ -26,10 +26,15 @@ You will need to install gnome-themes-standard & gtk2-engines-murrine to make su
 # Screenshots
 
 ![Screenshot](http://i.imgur.com/BJbLRGF.png)
-*Blue menus instead of white, OSX icons and dark scrollbar for Gnome Terminal.*
+*arc-darker-ubuntu with blue menus instead of white, OSX icons and dark scrollbar for Gnome Terminal.*
+
+![Screenshot](http://i.imgur.com/I5pWsoz.png)
+*arc-darker-ubuntu-black-noOSX with black menus instead of white, OSX icons and dark scrollbar for Gnome Terminal.*
 
 ![Screenshot](http://i.imgur.com/SfrUx19.png)
 *Unity-greeter theme for lightdm*
+
+
 
 # How to install theme
 
