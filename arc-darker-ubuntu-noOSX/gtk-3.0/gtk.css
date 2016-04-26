@@ -2976,8 +2976,8 @@ GtkEntry.gb-command-bar-entry.entry.flat:focus {
   border: none; }
 
 GbTerminalView {
-  background-color: #ffffff;
-  color: #000000; }
+  background-color: #2F343F;
+  color: #ffffff; }
 
 GbSourceStyleSchemeWidget GtkSourceView {
   font-family: Monospace; }
