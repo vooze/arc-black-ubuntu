@@ -48,6 +48,16 @@ sudo cp -R arc-darker-ubuntu* /usr/share/themes
 - Change theme in unity-tweak-tool
 ```
 
+# How to update theme.
+
+Since I quite frequenly (at least for now) is fixing some small bugs, you should probably check for updates, once in a while.
+```
+cd arc-darker-ubuntu 
+git pull
+sudo rm -rf /usr/share/themes/arc-darker-ubuntu*
+sudo cp -R arc-darker-ubuntu* /usr/share/themes
+```
+
 # How to change unity-greeter theme:
 
 ```
