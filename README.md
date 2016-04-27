@@ -21,6 +21,7 @@ You will need to install gnome-themes-standard & gtk2-engines-murrine to make su
 - Fixed sound-buttons in unity-panel
 - Made scrollbar for terminal dark
 - Added unity-greeter theme.
+- Added line separators for menus and nautilus sidebar.
 - Other unity-stuff.
 
 # Screenshots
@@ -50,7 +51,7 @@ sudo cp -R arc-darker-ubuntu* /usr/share/themes
 
 # How to update theme.
 
-Since I quite frequenly (at least for now) is fixing some small bugs, you should probably check for updates, once in a while.
+Since I quite frequenly (at least for now) is fixing some small bugs and added more tweaks, you should probably check for updates, once in a while.
 ```
 cd arc-darker-ubuntu 
 git pull
@@ -61,7 +62,7 @@ sudo cp -R arc-darker-ubuntu* /usr/share/themes
 # How to change unity-greeter theme:
 
 ```
-sudo cp -R /THEME-FOLDER-CHANGE-THIS/extra/unity-greeter/10_unity-greeter.gschema.override /usr/share/glib-2.0/schemas/
+sudo cp -R arc-darker-ubuntu/extra/unity-greeter/10_unity-greeter.gschema.override /usr/share/glib-2.0/schemas/
 sudo glib-compile-schemas /usr/share/glib-2.0/schemas/
 ```
 
