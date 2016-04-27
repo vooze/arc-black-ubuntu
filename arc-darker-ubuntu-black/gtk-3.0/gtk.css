@@ -1403,7 +1403,9 @@ column-header .button, column-header .button:hover, column-header .button:active
 .menu .menuitem:insensitive {
     color: rgba(211, 218, 227, 0.45); }
 .menu .menuitem.separator {
-    color: rgba(64, 69, 82, 0); }
+    -GtkMenuItem-horizontal-padding: 0;
+    border-width: 1px;
+    color: #282828; }
 .menu .menuitem.arrow {
     -gtk-icon-source: -gtk-icontheme("pan-end-symbolic"); }
 .menu .menuitem.arrow:dir(rtl) {
