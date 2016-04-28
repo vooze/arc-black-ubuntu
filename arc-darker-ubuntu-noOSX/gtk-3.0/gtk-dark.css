@@ -2679,6 +2679,11 @@ TerminalWindow .background {
 TerminalWindow .scrollbar.vertical .slider {
   margin-left: 3px; }
 
+VteTerminal {
+    background-color: #2f343f;
+    color: #ffffff;
+}
+
 TerminalWindow .scrollbar.trough {
   border-width: 0; }
 
