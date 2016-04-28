@@ -10,7 +10,7 @@ If you have more suggestions feel free to ask or make pull-requests.
 
 You will need to install gnome-themes-standard & gtk2-engines-murrine to make sure everything works.
 
-# Changes made
+## Changes made
 
 - Made 4 versions, two black/dark and two blue/standard. Both come with or without OSX icons.
 - Disabled transparency
@@ -20,11 +20,12 @@ You will need to install gnome-themes-standard & gtk2-engines-murrine to make su
 - Fixed GTK calendar a bit
 - Fixed sound-buttons in unity-panel
 - Made scrollbar for terminal dark
+- Added default terminal colors, to better fit the the rest of the theme.
 - Added unity-greeter theme.
 - Added line separators for menus and nautilus sidebar.
 - Other unity-stuff.
 
-# Screenshots
+## Screenshots
 
 ![Screenshot](http://i.imgur.com/BJbLRGF.png)
 *arc-darker-ubuntu with blue menus instead of white, OSX icons and dark scrollbar for Gnome Terminal.*
@@ -35,11 +36,7 @@ You will need to install gnome-themes-standard & gtk2-engines-murrine to make su
 ![Screenshot](http://i.imgur.com/SfrUx19.png)
 *Unity-greeter theme for lightdm*
 
-# Icon theme
-
-This is very EARLY development, so please be gentle. It's right here: https://github.com/vooze/numix-blue-custom
-
-# How to install theme
+## How to install theme
 
 ```
 sudo apt install git unity-tweak-tool gnome-themes-standard gtk2-engines-murrine
@@ -49,7 +46,7 @@ sudo cp -R arc-darker-ubuntu* /usr/share/themes
 - Change theme in unity-tweak-tool
 ```
 
-# How to update theme.
+## How to update theme.
 
 Since I quite frequenly (at least for now) is fixing some small bugs and added more tweaks, you should probably check for updates, once in a while.
 ```
@@ -59,13 +56,17 @@ sudo rm -rf /usr/share/themes/arc-darker-ubuntu*
 sudo cp -R arc-darker-ubuntu* /usr/share/themes
 ```
 
-# How to change unity-greeter theme:
+### How to change unity-greeter theme:
 
 ```
 sudo cp -R arc-darker-ubuntu/extra/unity-greeter/10_unity-greeter.gschema.override /usr/share/glib-2.0/schemas/
 sudo glib-compile-schemas /usr/share/glib-2.0/schemas/
 ```
 
-# Credits:
+### Icon theme
+
+This is very EARLY development, so please be gentle. It's right here: https://github.com/vooze/numix-blue-custom
+
+### Credits:
 - https://github.com/horst3180/ - For the arc-theme
 - https://github.com/HEXcube - For the unity-greeter theme.
