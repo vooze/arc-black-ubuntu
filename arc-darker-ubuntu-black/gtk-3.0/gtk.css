@@ -1363,7 +1363,7 @@ column-header .button, column-header .button:hover, column-header .button:active
 
 .menubar {
     -GtkWidget-window-dragging: true;
-    background-color: shade(#282828, 1.2);
+    background-color: #282828;
     color: rgba(207, 218, 231, 0.8);
     padding: 0px; }
 .menubar:backdrop {
@@ -1390,8 +1390,8 @@ column-header .button, column-header .button:hover, column-header .button:active
     margin: 4px;
     padding: 0px;
     color: #FFFFFF;
-    background-color: shade (#282828, 1.2);
-    border: 1px solid shade (#282828, 0.9); }
+    background-color: shade(#282828, 1.2);
+    border: 1px solid shade(#282828, 0.9); }
 .menu .menuitem {
     text-shadow: none;
     padding: 4px; }
