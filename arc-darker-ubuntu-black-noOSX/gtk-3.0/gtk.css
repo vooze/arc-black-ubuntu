@@ -947,13 +947,13 @@ GtkComboBox {
     background-color: #282828; }
   .titlebar:backdrop {
     color: rgba(207, 218, 231, 0.5);
-    background-color: #323843; }
+    background-color: #292929; }
     .csd .titlebar:backdrop {
-      background-color: #323843; }
+      background-color: #292929; }
   .maximized .titlebar {
     background-color: #282828; }
     .maximized .titlebar:backdrop, .csd .maximized .titlebar:backdrop {
-      background-color: #323843; }
+      background-color: #292929; }
 
 .titlebar .titlebar,
 .titlebar .titlebar:backdrop {
@@ -3853,14 +3853,14 @@ GeditWindow.background.csd > .titlebar > GtkHeaderBar.header-bar.titlebar {
   background-color: #282828; }
   FeedReaderreaderUI.background.csd > .titlebar > GtkHeaderBar.header-bar.titlebar:backdrop,
   GeditWindow.background.csd > .titlebar > GtkHeaderBar.header-bar.titlebar:backdrop {
-    background-color: #323843; }
+    background-color: #292929; }
 
 FeedReaderreaderUI.background.csd.maximized > .titlebar > GtkHeaderBar.header-bar.titlebar,
 GeditWindow.background.csd.maximized > .titlebar > GtkHeaderBar.header-bar.titlebar {
   background-color: #282828; }
   FeedReaderreaderUI.background.csd.maximized > .titlebar > GtkHeaderBar.header-bar.titlebar:backdrop,
   GeditWindow.background.csd.maximized > .titlebar > GtkHeaderBar.header-bar.titlebar:backdrop {
-    background-color: #323843; }
+    background-color: #292929; }
 
 FeedReaderreaderUI.background.csd > FeedReaderreaderHeaderbar.titlebar,
 GeditWindow.background.csd > .titlebar {
@@ -4030,7 +4030,7 @@ MarlinViewWindow .source-list.sidebar.view .scrollbar .slider, GeditFileBrowserW
 @define-color wm_title alpha(#cfdae7,0.8);
 @define-color wm_unfocused_title alpha(#cfdae7,0.5);
 @define-color wm_bg #282828;
-@define-color wm_bg_unfocused #323843;
+@define-color wm_bg_unfocused #292929;
 @define-color wm_highlight #282828;
 @define-color wm_shadow alpha(black,0.35);
 @define-color wm_button_close_bg #cc575d;
