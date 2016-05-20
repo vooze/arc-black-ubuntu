@@ -1367,7 +1367,7 @@ column-header .button, column-header .button:hover, column-header .button:active
     color: rgba(207, 218, 231, 0.8);
     padding: 0px; }
 .menubar:backdrop {
-     background-color: shade(#282828, 1.2);
+     background-color: shade(#282828, 1);
      color: rgba(207, 218, 231, 0.5); }
 .menubar > .menuitem {
     padding: 6px 8px;
