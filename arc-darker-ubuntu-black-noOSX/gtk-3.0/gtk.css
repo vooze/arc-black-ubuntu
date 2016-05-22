@@ -1,7 +1,7 @@
 * {
   background-clip: padding-box;
   -GtkToolButton-icon-spacing: 4;
-  -GtkTextView-error-underline-color: #FC4138;a
+  -GtkTextView-error-underline-color: #FC4138;
   -GtkCheckButton-indicator-size: 16;
   -GtkCheckMenuItem-indicator-size: 16;
   -GtkScrolledWindow-scrollbar-spacing: 0;
@@ -3327,7 +3327,7 @@ UnityPanelWidget,
   color: white; }
 
 .lightdm.menubar {
-  color: rgba(255, 255, 255, );
+  color: rgba(255, 255, 255, 0.8);
   background-image: none;
   background-color: rgba(0, 0, 0, 0.5); }
   .lightdm.menubar > .menuitem {
