@@ -3701,7 +3701,7 @@ NautilusWindow .list.sidebar {
 
 GtkFileChooserDialog GtkPlacesSidebar.sidebar,
 NautilusWindow GtkPlacesSidebar.sidebar {
-  background-color: #323232; }
+  background-color: #363636; }
   GtkFileChooserDialog GtkPlacesSidebar.sidebar .sidebar-placeholder-row.list-row.activatable,
   NautilusWindow GtkPlacesSidebar.sidebar .sidebar-placeholder-row.list-row.activatable {
     border: 1px solid #5294E2; }
@@ -3735,7 +3735,7 @@ NautilusWindow GtkPlacesSidebar.sidebar {
 
 GtkFileChooserDialog.maximized GtkPlacesSidebar.sidebar,
 NautilusWindow.maximized GtkPlacesSidebar.sidebar {
-  background-color: #323232; }
+  background-color: #363636; }
 
 GtkFileChooserDialog .sidebar-button.button,
 NautilusWindow .sidebar-button.button {
@@ -3801,11 +3801,11 @@ MarlinViewWindow .source-list.sidebar.view {
 
 NemoWindow.maximized .sidebar,
 MarlinViewWindow.maximized .sidebar {
-  background-color: #323232; }
+  background-color: #363636; }
 
 NemoWindow.background > GtkGrid > GtkPaned > .pane-separator,
 MarlinViewWindow.background > GtkBox > GtkPaned > .pane-separator {
-  background-color: #323232; }
+  background-color: #363636; }
 
 NautilusWindow NautilusWindowSlot {
   background-color: #ffffff; }
@@ -3814,7 +3814,7 @@ NautilusDesktopWindow NautilusWindowSlot {
   background-color: transparent; }
 
 GtkFileChooserDialog.background.csd, GtkFileChooserDialog.background {
-  background-color: #323232; }
+  background-color: #363636; }
 
 GtkFileChooserDialog GtkPlacesSidebar.sidebar {
   background-color: transparent; }
@@ -3846,7 +3846,7 @@ GeditWindow.background.csd > .titlebar .pane-separator,
 GeditWindow.background.csd.maximized > .titlebar .pane-separator,
 GeditWindow.background.csd > .titlebar .pane-separator:backdrop,
 GeditWindow.background.csd.maximized > .titlebar .pane-separator:backdrop {
-  background-color: #323232; }
+  background-color: #363636; }
 
 FeedReaderreaderUI.background.csd > .titlebar > GtkHeaderBar.header-bar.titlebar,
 GeditWindow.background.csd > .titlebar > GtkHeaderBar.header-bar.titlebar {
@@ -3870,7 +3870,7 @@ GeditWindow.background.csd {
   background-color: transparent; }
 
 GeditWindow.background .gedit-side-panel-paned .pane-separator {
-  background-color: #323232; }
+  background-color: #363636; }
 
 GeditWindow.background .gedit-bottom-panel-paned .pane-separator {
   background-color: #dcdfe3; }
@@ -3879,9 +3879,9 @@ GeditWindow.background .gedit-bottom-panel-paned .pane-separator {
   background-color: #ffffff; }
 
 .gedit-document-panel {
-  background-color: #323232; }
+  background-color: #363636; }
   .maximized .gedit-document-panel {
-    background-color: #323232; }
+    background-color: #363636; }
   .gedit-document-panel .list-row {
     color: #FFFFFF; }
   .gedit-document-panel .list-row {
@@ -3908,9 +3908,9 @@ GeditWindow.background .gedit-bottom-panel-paned .pane-separator {
     color: #FFFFFF; }
 
 GeditFileBrowserWidget {
-  background-color: #323232; }
+  background-color: #363636; }
   .maximized GeditFileBrowserWidget {
-    background-color: #323232; }
+    background-color: #363636; }
   GeditFileBrowserWidget .horizontal {
     background-color: transparent;
     border-color: #252831; }
