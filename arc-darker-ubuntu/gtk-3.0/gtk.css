@@ -939,7 +939,7 @@ GtkComboBox {
 .titlebar {
   padding-left: 7px;
   padding-right: 7px;
-  border-radius: 3px 3px 0 0;
+  border-radius: 4px 4px 0 0;
   color: rgba(207, 218, 231, 0.8);
   background-color: #2f343f;
   box-shadow: inset 0 1px #363b48; }
@@ -2505,12 +2505,12 @@ GtkVolumeButton.button {
   background-position: right center; }
 
 .window-frame {
-  border-radius: 3px 3px 0 0;
+  border-radius: 4px 4px 0 0;
   border-width: 0px;
-  box-shadow: 0 0 0 1px #20232b, 0 8px 8px 0 rgba(0, 0, 0, 0.2);
+  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0), 0 8px 8px 0 rgba(0, 0, 0, 0.2);
   margin: 10px; }
   .window-frame:backdrop {
-    box-shadow: 0 0 0 1px rgba(32, 35, 43, 0.9), 0 5px 5px 0 rgba(0, 0, 0, 0.2); }
+    box-shadow: 0 0 0 1px rgba(0, 0, 0, 0), 0 5px 5px 0 rgba(0, 0, 0, 0.2); }
   .window-frame.tiled {
     border-radius: 0; }
   .window-frame.popup {
