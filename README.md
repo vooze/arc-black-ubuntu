@@ -12,29 +12,26 @@ You will need to install gnome-themes-standard & gtk2-engines-murrine to make su
 
 ## Changes made
 
-- Made 4 versions, two black/dark and two blue/standard. Both come with or without OSX icons.
+- Changed from blue to black (#282828)
+- Changed nautilus + GtkFileChooserDialog to have a less dark sidebar.
+- Made two versions, with and without OSX buttons.
 - Disabled transparency
 - Made the unity top bar the same color as other windows.
 - Deleted all non-unity stuff
-- Made menus blue/white instead of white/black, which made some problems for the unity top bar - icons would not show in the correct color. - White icons on white background is ugly :)
-- Fixed GTK calendar a bit
-- Fixed sound-buttons in unity-panel
+- Made menus black/white instead of white/black, which made some problems for the unity top bar - icons would not show in the correct color. - White icons on white background is ugly :)
 - Made scrollbar for terminal dark
 - Added default terminal colors, to better fit the the rest of the theme.
 - Added unity-greeter theme.
 - Added line separators for menus and nautilus sidebar.
-- Other unity-stuff.
+- Alot of other things I really can't remember.
 
 ## Screenshots
 
-![Screenshot](http://i.imgur.com/BJbLRGF.png)
-*arc-darker-ubuntu with blue menus instead of white, OSX icons and dark scrollbar for Gnome Terminal.*
-
 ![Screenshot](http://i.imgur.com/I5pWsoz.png)
-*arc-darker-ubuntu-black-noOSX with black menus instead of white, OSX icons and dark scrollbar for Gnome Terminal.*
+*arc-darker-ubuntu-black-noOSX with black menus instead of white, OSX icons and dark scrollbar for Gnome Terminal. - NOTICE: The new nautilus changes are not in this screenshot, yet.*
 
 ![Screenshot](http://i.imgur.com/SfrUx19.png)
-*Unity-greeter theme for lightdm*
+*Old Unity-greeter theme for lightdm, it's black-ish now, the rest is the same*
 
 ## How to install theme
 
