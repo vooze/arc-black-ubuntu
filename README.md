@@ -29,8 +29,8 @@ You will need to install gnome-themes-standard & gtk2-engines-murrine to make su
 
 ## Screenshots
 
-![Screenshot](http://i.imgur.com/I5pWsoz.png)
-*arc-darker-ubuntu-black-noOSX with black menus instead of white, OSX icons and dark scrollbar for Gnome Terminal. - NOTICE: The new nautilus changes are not in this screenshot, yet.*
+![Screenshot](http://i.imgur.com/xc8tiyR.png)
+*arc-black-ubuntu. Made so it fits spotify perfect.*
 
 ![Screenshot](http://i.imgur.com/SfrUx19.png)
 *Old Unity-greeter theme for lightdm, it's black-ish now, the rest is the same*
