@@ -1,6 +1,6 @@
-# Arc Darker Ubuntu
+# Arc Black Ubuntu
 
-Not really a coder, but this is my attempt at making the arc-theme at bit more unity-friendly.
+This is my attempt at making the arc-theme at bit more unity-friendly, with (in my opinon) better colors.
 
 This theme is build with GTK3.18 in mind, so it's for Ubuntu unity 16.04 ONLY. - If you dont like OSX icons,  you  can use the orignals with theme noOSX.
 
