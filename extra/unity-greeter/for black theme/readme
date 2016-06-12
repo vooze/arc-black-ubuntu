@@ -1,2 +1,0 @@
-Copy 10_unity-greeter.gschema.override to /usr/share/glib-2.0/schemas/
-and paste this in terminal: sudo glib-compile-schemas /usr/share/glib-2.0/schemas/
