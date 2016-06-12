@@ -13,6 +13,8 @@ You will need to install gnome-themes-standard & gtk2-engines-murrine to make su
 ## Changes made
 
 - Changed from blue to black (#282828)
+- Made text white insted of gray-ish.
+- Made default text darker, so it's easier to read.
 - Changed nautilus + GtkFileChooserDialog to have a less dark sidebar.
 - Made two versions, with and without OSX buttons.
 - Disabled transparency
