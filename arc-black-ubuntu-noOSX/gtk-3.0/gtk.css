@@ -1397,9 +1397,9 @@ column-header .button, column-header .button:hover, column-header .button:active
     padding: 4px; }
 .menu .menuitem:hover {
     color: #FFFFFF;
-    background-color: rgba(255, 255, 255, 0.05);
-    border: solid rgba(255, 255, 255, 0.07);
-    border-width: 1px 0 1px 0; }
+    background-color: rgba(82, 148, 226, 1);
+    border: solid shade(#282828, 0.9);
+    border-width: 1px 1px 1px 1px; }
 .menu .menuitem:insensitive {
     color: rgba(211, 218, 227, 0.45); }
 .menu .menuitem.separator {
