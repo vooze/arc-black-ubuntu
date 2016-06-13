@@ -40,8 +40,8 @@ You will need to install gnome-themes-standard & gtk2-engines-murrine to make su
 ```
 sudo apt install git unity-tweak-tool gnome-themes-standard gtk2-engines-murrine
 git clone https://github.com/vooze/arc-darker-ubuntu
-cd arc-darker-ubuntu
-sudo cp -R arc-darker-ubuntu* /usr/share/themes
+cd arc-black-ubuntu
+sudo cp -R arc-black-ubuntu* /usr/share/themes
 - Change theme in unity-tweak-tool
 ```
 
@@ -51,14 +51,14 @@ Since I quite frequenly (at least for now) is fixing some small bugs and added m
 ```
 cd arc-darker-ubuntu 
 git pull
-sudo rm -rf /usr/share/themes/arc-darker-ubuntu*
-sudo cp -R arc-darker-ubuntu* /usr/share/themes
+sudo rm -rf /usr/share/themes/arc-black-ubuntu*
+sudo cp -R arc-black-ubuntu* /usr/share/themes
 ```
 
 ### How to change unity-greeter theme:
 
 ```
-sudo cp -R arc-darker-ubuntu/extra/unity-greeter/10_unity-greeter.gschema.override /usr/share/glib-2.0/schemas/
+sudo cp -R arc-black-ubuntu/extra/unity-greeter/10_unity-greeter.gschema.override /usr/share/glib-2.0/schemas/
 sudo glib-compile-schemas /usr/share/glib-2.0/schemas/
 ```
 
