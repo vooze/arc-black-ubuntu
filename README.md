@@ -39,7 +39,7 @@ You will need to install gnome-themes-standard & gtk2-engines-murrine to make su
 
 ```
 sudo apt install git unity-tweak-tool gnome-themes-standard gtk2-engines-murrine
-git clone https://github.com/vooze/arc-darker-ubuntu
+git clone https://github.com/vooze/arc-black-ubuntu
 cd arc-black-ubuntu
 sudo cp -R arc-black-ubuntu* /usr/share/themes
 - Change theme in unity-tweak-tool
@@ -47,10 +47,11 @@ sudo cp -R arc-black-ubuntu* /usr/share/themes
 
 ## How to update theme.
 
-Since I quite frequenly (at least for now) is fixing some small bugs and added more tweaks, you should probably check for updates, once in a while.
+Since I quite frequenly (at least for now) is fixing some small bugs and adding more tweaks, you should probably check for updates, once in a while.
 ```
-cd arc-darker-ubuntu 
+cd arc-black-ubuntu 
 git pull
+## If there is no changes, there is no need paste/write the last 2 lines.
 sudo rm -rf /usr/share/themes/arc-black-ubuntu*
 sudo cp -R arc-black-ubuntu* /usr/share/themes
 ```
