@@ -3703,7 +3703,7 @@ NautilusWindow .list.sidebar {
 GtkFileChooserDialog GtkPlacesSidebar.sidebar,
 NautilusWindow GtkPlacesSidebar.sidebar {
   background-color: #F5F6F7;
-  border: 1px solid rgba(0, 0, 0, 0.1);
+  border: 1px solid #e5e5e5;
   border-width: 0px 1px 0px 0px; }
   GtkFileChooserDialog GtkPlacesSidebar.sidebar .sidebar-placeholder-row.list-row.activatable,
   NautilusWindow GtkPlacesSidebar.sidebar .sidebar-placeholder-row.list-row.activatable {
