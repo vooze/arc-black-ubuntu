@@ -3771,14 +3771,14 @@ MarlinViewWindow .source-list.view:prelight {
 NemoWindow .sidebar, NemoWindow .source-list.sidebar.view,
 MarlinViewWindow .sidebar,
 MarlinViewWindow .source-list.sidebar.view {
-  background-color: #323232; }
+  background-color: #F5F6F7; }
   NemoWindow .sidebar .view, NemoWindow .sidebar row, NemoWindow .source-list.sidebar.view .view, NemoWindow .source-list.sidebar.view row,
   MarlinViewWindow .sidebar .view,
   MarlinViewWindow .sidebar row,
   MarlinViewWindow .source-list.sidebar.view .view,
   MarlinViewWindow .source-list.sidebar.view row {
     background-color: transparent;
-    color: #FFFFFF; }
+    color: #000000; }
     NemoWindow .sidebar .view.image, NemoWindow .sidebar row.image, NemoWindow .source-list.sidebar.view .view.image, NemoWindow .source-list.sidebar.view row.image,
     MarlinViewWindow .sidebar .view.image,
     MarlinViewWindow .sidebar row.image,
