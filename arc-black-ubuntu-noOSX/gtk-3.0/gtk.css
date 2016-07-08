@@ -3284,7 +3284,7 @@ UnityDecoration {
     padding: 1px 6px 0 6px;
     background-image: linear-gradient(to bottom, #282828);
     color: rgba(255, 255, 255, 1);
-    box-shadow: inset 0 1px #282828; }
+    box-shadow: inset 0 1px #363636; }
     UnityDecoration.top:backdrop {
       border-bottom-width: 0;
       color: rgba(255, 255, 255, 0.7); }
@@ -3771,14 +3771,14 @@ MarlinViewWindow .source-list.view:prelight {
 NemoWindow .sidebar, NemoWindow .source-list.sidebar.view,
 MarlinViewWindow .sidebar,
 MarlinViewWindow .source-list.sidebar.view {
-  background-color: #F5F6F7; }
+  background-color: #323232; }
   NemoWindow .sidebar .view, NemoWindow .sidebar row, NemoWindow .source-list.sidebar.view .view, NemoWindow .source-list.sidebar.view row,
   MarlinViewWindow .sidebar .view,
   MarlinViewWindow .sidebar row,
   MarlinViewWindow .source-list.sidebar.view .view,
   MarlinViewWindow .source-list.sidebar.view row {
     background-color: transparent;
-    color: #000000; }
+    color: #FFFFFF; }
     NemoWindow .sidebar .view.image, NemoWindow .sidebar row.image, NemoWindow .source-list.sidebar.view .view.image, NemoWindow .source-list.sidebar.view row.image,
     MarlinViewWindow .sidebar .view.image,
     MarlinViewWindow .sidebar row.image,
