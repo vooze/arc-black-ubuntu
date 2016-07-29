@@ -3804,7 +3804,7 @@ MarlinViewWindow .source-list.sidebar.view {
     color: transparent; }
 
 NemoWindow .sidebar .view:hover {
-background-color: rgba(255, 255, 255, 0.1); /* to change the hover background color in sidebar*/
+background-color: rgba(0, 0, 0, 0.1); /* to change the hover background color in sidebar*/
 }
 
 NemoWindow.maximized .sidebar,
