@@ -2,7 +2,7 @@
 static char * shade_toggled_prelight_xpm[] = {
 "24 24 3 1",
 " 	c None",
-".	c #282828",
+".	c #2f2f2f",
 "+	c #eeeeee",
 "........................",
 "........................",
