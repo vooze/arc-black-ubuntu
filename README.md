@@ -4,7 +4,7 @@ This is my attempt at making the arc-theme at bit more unity-friendly, with (in 
 
 Theme now supports xfce, thanks to https://github.com/Benoth. - Please open an issue, if you find some bugs.
 
-This theme is build with GTK2 GTK3.18 in mind, so it's for xubuntu + ubuntu unity 16.04 ONLY. - If you dont like OSX icons,  you  can use the orignals with theme noOSX.
+This theme is build with GTK2 + GTK3.18 in mind, so it's for xubuntu + ubuntu unity 16.04 ONLY. - If you dont like OSX icons,  you  can use the orignals with theme noOSX.
 
 Theme is a fork of https://github.com/horst3180/arc-theme/ - Thanks to horst3180 for his wonderful theme.
 
