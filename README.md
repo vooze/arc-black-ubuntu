@@ -2,7 +2,9 @@
 
 This is my attempt at making the arc-theme at bit more unity-friendly, with (in my opinon) better colors.
 
-This theme is build with GTK3.18 in mind, so it's for Ubuntu unity 16.04 ONLY. - If you dont like OSX icons,  you  can use the orignals with theme noOSX.
+Theme now supports xfce, thanks to https://github.com/Benoth. - Please open an issue, if you find some bugs.
+
+This theme is build with GTK2 GTK3.18 in mind, so it's for xubuntu + ubuntu unity 16.04 ONLY. - If you dont like OSX icons,  you  can use the orignals with theme noOSX.
 
 Theme is a fork of https://github.com/horst3180/arc-theme/ - Thanks to horst3180 for his wonderful theme.
 
@@ -30,7 +32,7 @@ You will need to install gnome-themes-standard & gtk2-engines-murrine to make su
 ## Screenshots
 
 ![Screenshot](http://i.imgur.com/xc8tiyR.png)
-*arc-black-ubuntu. Made so it fits spotify perfect.*
+*arc-black-ubuntu. Have since changed a little bit, to #2f2f2f insted of #282828.*
 
 ![Screenshot](http://i.imgur.com/SfrUx19.png)
 *Old Unity-greeter theme for lightdm, it's black-ish now, the rest is the same*
