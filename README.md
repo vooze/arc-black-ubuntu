@@ -12,7 +12,7 @@ You will need to install gnome-themes-standard & gtk2-engines-murrine to make su
 
 ## Changes made
 
-- Changed from blue to black (#282828)
+- Changed from blue to black (#2f2f2f)
 - Made text white insted of gray-ish.
 - Made default text darker, so it's easier to read.
 - Changed nautilus + GtkFileChooserDialog to have a less dark sidebar.
@@ -49,7 +49,7 @@ sudo cp -R arc-black-ubuntu* /usr/share/themes
 
 Since I quite frequenly (at least for now) is fixing some small bugs and adding more tweaks, you should probably check for updates, once in a while.
 ```
-cd arc-black-ubuntu 
+cd arc-black-ubuntu
 git pull
 ## If there is no changes, there is no need paste/write the last 2 lines.
 sudo rm -rf /usr/share/themes/arc-black-ubuntu*
